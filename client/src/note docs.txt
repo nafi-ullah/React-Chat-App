@@ -1,0 +1,7 @@
+npx create-react-app client
+npm i socket.io-client
+npm i react-scroll-to-bottom
+
+
+/server
+npm i socket.io cors express nodemon
